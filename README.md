@@ -1,2 +1,10 @@
 # Minesweeper Map Solver
- C program that uses an algorithm to solve any (n,n) input map filed with randomly allocated mines and generate final output map discovered by the search algorithm
+
+this is a C program that uses an algorithm to solve any (n,n) input map filled with randomly allocated mines and generate
+final output map based on what search algorithm discovered
+
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=AHyTd-NpET4
+" target="_blank"><img src="http://img.youtube.com/vi/AHyTd-NpET4/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
